@@ -7,8 +7,8 @@ A personal offline-oriented study site for VOA Learning English:
 
 ## Current import status
 
-- Level 1 lessons 1–34: transcript JSON files imported.
-- Level 1 lessons 35–52: not yet imported.
+- Level 1 lessons 1–38: transcript JSON files imported.
+- Level 1 lessons 39–52: not yet imported.
 - Level 2 lessons 1–30: not yet imported.
 - Each imported lesson records its official VOA page and official MP3 URL.
 - MP3 files are downloaded on demand into the browser's separate Cache Storage using the site's sequential cache control. They are not currently committed as MP3 binaries in this GitHub repository.
