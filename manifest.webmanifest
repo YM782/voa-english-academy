@@ -1,0 +1,8 @@
+{
+  "name": "VOA English Academy",
+  "short_name": "VOA Academy",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f4f7fa",
+  "theme_color": "#10243a"
+}
