@@ -9,8 +9,8 @@ A personal offline-oriented study site for VOA Learning English:
 
 - Level 1 lessons 1–52: transcript JSON files imported.
 - Level 1 lessons 1–52: complete.
-- Level 2 lessons 1–16: transcript JSON files imported.
-- Level 2 lessons 17–30: not yet imported.
+- Level 2 lessons 1–20: transcript JSON files imported.
+- Level 2 lessons 21–30: not yet imported.
 - Each imported lesson records its official VOA page and official MP3 URL where available. Lesson 8 currently has an official video page but no separate MP3 link exposed on the transcript page; the site links to the official video rather than inventing an audio URL. Lesson 45 includes a third-party song performance; its lyrics are omitted and its MP3 is excluded from the offline-cache batch pending separate rights clearance.
 - MP3 files are downloaded on demand into the browser's separate Cache Storage using the site's sequential cache control. They are not currently committed as MP3 binaries in this GitHub repository.
 - Offline playback has been user-tested successfully for Level 1 Lesson 4. Other lessons must be cached and tested individually or through the sequential batch action.
